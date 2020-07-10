@@ -1,10 +1,10 @@
 ### Jin Hyung Park -- @jypthemiracle
 
 👋 Hi! Welcome to my GitHub place.
-I am an independent student researcher being active in south korea. My main areas of interest are back-end development in general(Spring Boot, Node.js) and software education for the general public.
+I am an independent student researcher being active in South Korea. My main areas of interest are back-end development in general(Spring Boot, Node.js) and software education for the general public.
 
 ### 🔭 Languages & Frameworks
-- Java & Spring Boot (Novice)
+- Java & Spring Boot (Intermediate)
 - Python & Django (Novice)
 - JavaScript & Node.js (Novice)
 
