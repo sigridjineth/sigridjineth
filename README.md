@@ -8,7 +8,7 @@ I am an independent student researcher being active in South Korea. My main area
 - Python & Django (Novice)
 - JavaScript & Node.js (Novice)
 
-### 👯 Side jobs (deactivated from August 2020)
+### 👯 Previous Side jobs (until August 2020)
 - Refactoring Manager at Sullivan Project(설리번 프로젝트 @sullivanproject), the program for directing developers to build their first-ever instructional experience.
 - Activist at NullFull(널채움 @nullfull), the civic hacking community located in Seoul, South Korea.
 - Organizer at AngelHack Seoul (엔젤핵 서울 @angelhackseoul), the one of the largest global-based hackathon convening in Seoul, South Korea.
