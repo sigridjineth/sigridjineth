@@ -1,7 +1,7 @@
 ### Jin Hyung Park -- @jypthemiracle
 
 👋 Hi! Welcome to my GitHub place.
-I am an independent student researcher being active in South Korea. My main areas of interest are back-end development in general(Spring Boot, Node.js), economics with data science and software education for the general public. Currently serving mandatory military service in Republic of Korea Air Force(ROKAF) for two years.
+I am an independent student researcher being active in South Korea. My main areas of interest are back-end development in general(Spring Boot, Node.js), economics with data science and software education for the general public. Currently serving mandatory military service for Republic of Korea Air Force(ROKAF).
 
 ### 🔭 Languages & Frameworks
 - Java & Spring Boot (Intermediate)
