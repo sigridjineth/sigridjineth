@@ -278,10 +278,9 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="560" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m eager to learn new things!</text>
-    <text x="15" y="47">including backend engineering</text> 
-    <text x="15" y="67">but I’ve been currently military leave now</text>
-    <text x="15" y="100">which is mandatory in Korea.</text>
+    <text x="15" y="27">I’m eager to challenge new things!</text>
+    <text x="15" y="47">but I’ve been currently military leave now</text>
+    <text x="15" y="67">which is mandatory in Korea.</text>
   </g>
 
   <!-- typing 4 -->
