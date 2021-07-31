@@ -1,15 +1,17 @@
 ### Jin Hyung Park -- @jypthemiracle
 
 👋 Hi! Welcome to my GitHub place.
-I am an independent student researcher being active in South Korea. My main areas of interest are back-end development in general(Spring Boot, Node.js), economics with data science, aviation science with related business, and software education for the general public.
+I am an independent student researcher being active in South Korea. My main areas of interest are back-end development in general, economics with data science, aviation science with related business, and software education for the general public.
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jypthemiracle)](https://solved.ac/jypthemiracle)
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 ### 🔭 Languages & Frameworks
 - Java & Spring Boot (Intermediate)
-- Python & Django (Novice)
-- JavaScript & Node.js (Novice)
+- Python (Novice)
+- JavaScript/TypeScript & Node.js (Novice)
 
 ### 👯 Previous Side jobs (until August 2020)
 - Refactoring Manager at Sullivan Project(설리번 프로젝트 @sullivanproject), the program for directing developers to build their first-ever instructional experience.
