@@ -329,7 +329,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="450" height="42" rx="18.0355" class="bubble" />
+    <rect width="700" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Stay safe on this pandemic and remember to get vaccinated!</text>
   </g>
 
