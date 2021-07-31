@@ -277,7 +277,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="600" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="450" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I’m eager to challenge new things!</text>
     <text x="15" y="50">but I’ve been currently mandatory military leave now.</text>
   </g>
@@ -329,8 +329,9 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="600" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Stay safe on this pandemic and remember to get vaccinated!</text>
+    <rect width="339" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Stay safe on this pandemic</text>
+    <text x="15" y="47">and remember to get vaccinated!</text>
   </g>
 
   <!-- typing 6 -->
@@ -352,7 +353,7 @@
   </g>
 
   <!-- Have a great... -->
-  <g transform="translate(10, 288)" class="msg-6">
+  <g transform="translate(10, 300)" class="msg-6">
     <rect width="240" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Have a great Saturday! <tspan class="emoji">👋</tspan></text>  
   </g>
