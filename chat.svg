@@ -228,7 +228,7 @@
 
   <!-- Hi, I'm Sigrid Jin -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="133" height="42" rx="18.0355" />
+    <rect width="153" height="42" rx="18.0355" />
     <text x="15" y="27">Hi, I'm Sigrid Jin</text>
   </g>
 
@@ -253,7 +253,7 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I live in Columbus, Ohio where it’s supposed to be</text>
+    <text x="15" y="27">I live in Seoul, Korea where it’s supposed to be</text>
     <text x="15" y="50">94° F (34° C) and <tspan class="emoji">🌦</tspan> today.</text>
   </g>
 
@@ -277,9 +277,9 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="460" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m a product designer. I used to work at GitHub,</text>
-    <text x="15" y="50">but I’ve been at PlanetScale for about 7 months now.</text>
+    <rect width="600" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">I’m eager to challenge new things!</text>
+    <text x="15" y="50">but I’ve been currently mandatory military leave now.</text>
   </g>
 
   <!-- typing 4 -->
@@ -304,8 +304,8 @@
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="513" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      You can find me on Twitter at
-      <a xlink:href="https://twitter.com/jasonlong">https://twitter.com/jasonlong</a>
+      You can find me on
+      <a xlink:href="https://abit.ly/jypthemiracle">https://abit.ly/jypthemiracle</a>
     </text>
   </g>
 
@@ -329,8 +329,8 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="225" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Thanks for stopping by</text>
+    <rect width="400" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Stay safe on this pandemic and get vaccinated!</text>
   </g>
 
   <!-- typing 6 -->
