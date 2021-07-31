@@ -228,7 +228,7 @@
 
   <!-- Hi, I'm Sigrid Jin -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="143" height="42" rx="18.0355" />
+    <rect width="153" height="42" rx="18.0355" />
     <text x="15" y="27">Hi, I'm Sigrid Jin</text>
   </g>
 
@@ -279,7 +279,7 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="600" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I’m eager to challenge new things!</text>
-    <text x="15" y="50">but I’ve been currently mandatory military leave now</text>
+    <text x="15" y="50">but I’ve been currently mandatory military leave now.</text>
   </g>
 
   <!-- typing 4 -->
@@ -329,8 +329,8 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="250" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Stay safe on this pandemic!</text>
+    <rect width="400" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Stay safe on this pandemic and get vaccinated!</text>
   </g>
 
   <!-- typing 6 -->
