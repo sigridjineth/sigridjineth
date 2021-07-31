@@ -3,9 +3,11 @@
 👋 Hi! Welcome to my GitHub place.
 I am an independent student researcher being active in South Korea. My main areas of interest are back-end development in general, economics with data science, aviation science with related business, and software education for the general public.
 
+### See how extent Sigrid Jin loves algorithm❤️
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jypthemiracle)](https://solved.ac/jypthemiracle)
 
+### Watch my contribution graph get eaten by the snake🐍
 ![snake gif](https://github.com/jypthemiracle/jypthemiracle/blob/output/github-contribution-grid-snake.gif)
 
 ### 🔭 Languages & Frameworks
