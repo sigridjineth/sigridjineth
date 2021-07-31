@@ -253,7 +253,7 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I live in Seoul, Korea where it’s supposed to be</text>
+    <text x="15" y="27">I am from Seoul, Korea where it’s supposed to be</text>
     <text x="15" y="50">{degF}° F ({degC}° C) and <tspan class="emoji">{weatherEmoji}</tspan> today.</text>
   </g>
 
@@ -329,8 +329,8 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="400" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Stay safe on this pandemic and get vaccinated!</text>
+    <rect width="450" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Stay safe on this pandemic and remember to get vaccinated!</text>
   </g>
 
   <!-- typing 6 -->
