@@ -8,7 +8,7 @@ I am an independent student researcher being active in South Korea. My main area
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jypthemiracle)](https://solved.ac/jypthemiracle)
 
 ### Watch my contribution graph get eaten by the snake🐍
-![snake gif](https://github.com/jypthemiracle/jypthemiracle/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/jypthemiracle/jypthemiracle/blob/output/github-contribution-grid-snake.svg)
 
 ### 🔭 Languages & Frameworks
 - Java & Spring Boot (Intermediate)
