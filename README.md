@@ -6,7 +6,7 @@ I am an independent student researcher being active in South Korea. My main area
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jypthemiracle)](https://solved.ac/jypthemiracle)
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/jypthemiracle/jypthemiracle/blob/output/github-contribution-grid-snake.gif)
 
 ### 🔭 Languages & Frameworks
 - Java & Spring Boot (Intermediate)
