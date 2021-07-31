@@ -278,9 +278,11 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="560" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m a student backend developer. I used to study at CodeSquad,</text>
-    <text x="15" y="37">Kyung Hee University and Seoul Foreign Language High School.</text>
-    <text x="15" y="60">but I’ve been currently military leave now which is mandatory in Korea.</text>
+    <text x="15" y="27">I’m a student backend developer.</text>
+    <text x="15" y="47">I used to study at CodeSquad.</text> 
+    <text x="15" y="67">Kyung Hee Univ and Seoul Foreign Language High School.</text>
+    <text x="15" y="80">but I’ve been currently military leave now</text>
+    <text x="15" y="100">which is mandatory in Korea.</text>
   </g>
 
   <!-- typing 4 -->
@@ -330,8 +332,8 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="225" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Thanks for stopping by</text>
+    <rect width="250" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Stay safe on this pandemic!</text>
   </g>
 
   <!-- typing 6 -->
