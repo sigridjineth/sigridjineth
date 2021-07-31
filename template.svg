@@ -278,10 +278,9 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="560" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m a student backend developer.</text>
-    <text x="15" y="47">I used to study at CodeSquad.</text> 
-    <text x="15" y="67">Kyung Hee Univ and Seoul Foreign Language High School.</text>
-    <text x="15" y="80">but I’ve been currently military leave now</text>
+    <text x="15" y="27">I’m eager to learn new things!</text>
+    <text x="15" y="47">including backend engineering</text> 
+    <text x="15" y="67">but I’ve been currently military leave now</text>
     <text x="15" y="100">which is mandatory in Korea.</text>
   </g>
 
@@ -307,7 +306,7 @@
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="513" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      You can find me on personal page at
+      You can find me on
       <a xlink:href="https://abit.ly/jypthemiracle">https://abit.ly/jypthemiracle</a>
     </text>
   </g>
