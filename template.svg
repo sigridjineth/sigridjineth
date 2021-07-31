@@ -302,7 +302,7 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="453" height="42" rx="18.0355" class="bubble" />
+    <rect width="353" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       You can find me on
       <a xlink:href="https://abit.ly/jypthemiracle">https://abit.ly/jypthemiracle</a>
@@ -329,7 +329,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="339" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Stay safe on this pandemic</text>
     <text x="15" y="47">and remember to get vaccinated!</text>
   </g>
