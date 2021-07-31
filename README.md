@@ -3,6 +3,9 @@
 👋 Hi! Welcome to my GitHub place.
 I am an independent student researcher being active in South Korea. My main areas of interest are back-end development in general(Spring Boot, Node.js), economics with data science, aviation science with related business, and software education for the general public.
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jypthemiracle)](https://solved.ac/jypthemiracle)
+
 ### 🔭 Languages & Frameworks
 - Java & Spring Boot (Intermediate)
 - Python & Django (Novice)
