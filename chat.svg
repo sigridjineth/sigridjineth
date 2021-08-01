@@ -254,7 +254,7 @@
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I am from Seoul, Korea where it’s supposed to be</text>
-    <text x="15" y="50">94° F (34° C) and <tspan class="emoji">🌦</tspan> today.</text>
+    <text x="15" y="50">85° F (29° C) and <tspan class="emoji">🌦</tspan> today.</text>
   </g>
 
   <!-- typing 3 -->
@@ -329,14 +329,14 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="339" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="339" height="70.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Stay safe on this pandemic</text>
     <text x="15" y="47">and remember to get vaccinated!</text>
   </g>
 
   <!-- typing 6 -->
   <g transform="translate(10, 288)" class="typing-6">
-  <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+  <rect x="8.27246" width="72.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
   <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
 
@@ -353,8 +353,8 @@
   </g>
 
   <!-- Have a great... -->
-  <g transform="translate(10, 300)" class="msg-6">
+  <g transform="translate(10, 400)" class="msg-6">
     <rect width="240" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Have a great Saturday! <tspan class="emoji">👋</tspan></text>  
+    <text x="15" y="27">Have a great Sunday! <tspan class="emoji">👋</tspan></text>  
   </g>
 </svg>
