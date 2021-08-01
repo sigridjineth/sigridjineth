@@ -336,7 +336,7 @@
 
   <!-- typing 6 -->
   <g transform="translate(10, 288)" class="typing-6">
-  <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+  <rect x="8.27246" width="72.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
   <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
 
@@ -353,7 +353,7 @@
   </g>
 
   <!-- Have a great... -->
-  <g transform="translate(10, 300)" class="msg-6">
+  <g transform="translate(10, 400)" class="msg-6">
     <rect width="240" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Have a great {todayDay}! <tspan class="emoji">👋</tspan></text>  
   </g>
