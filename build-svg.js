@@ -18,8 +18,8 @@ const emojis = {
 }
 
 // Time working at PlanetScale
-const today = new Date()
-const todayDay = new Intl.DateTimeFormat('ko-KR', { weekday: 'long' }).format(today)
+const today = new Date().toLocaleString("en-US", { timezone: "Asia/Seoul" });
+const todayDay = new Intl.DateTimeFormat('ko-KR', { weekday: 'long' }).format(today);
 
 const psTime = formatDistance(new Date(2020, 12, 14), today, {
   addSuffix: false
