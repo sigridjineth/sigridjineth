@@ -4,7 +4,7 @@
 I am an independent student researcher being active in South Korea. My main areas of interest are back-end development in general, economics with data science, aviation science with related business, and software education for the general public.
 
 ### Message from me with love💪
-![message_svg](https://raw.githubusercontent.com/jypthemiracle/jypthemiracle/57dcfbd6874ecb8f1976112f54c9212bbeb8c9a5/chat.svg)
+![message_svg](https://github.com/jypthemiracle/jypthemiracle/blob/master/chat.svg)
 
 ### See how extent Sigrid Jin loves algorithm❤️
 [![Solved.ac
