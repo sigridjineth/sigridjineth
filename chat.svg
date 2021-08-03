@@ -330,31 +330,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="339" height="70.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Stay safe on this pandemic</text>
-    <text x="15" y="47">and remember to get vaccinated!</text>
-  </g>
-
-  <!-- typing 6 -->
-  <g transform="translate(10, 288)" class="typing-6">
-  <rect x="8.27246" width="72.7276" height="42" rx="20.9774" class="bubble" />
-  <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
-  <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
-
-    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
-    </circle>
-
-  </g>
-
-  <!-- Have a great... -->
-  <g transform="translate(10, 400)" class="msg-6">
-    <rect width="240" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Have a great Tuesday! <tspan class="emoji">👋</tspan></text>  
+    <text x="15" y="27">Stay safe on this pandemic!</text>
+    <text x="15" y="47">Have a great Tuesday! <tspan class="emoji">👋</tspan></text>
   </g>
 </svg>
