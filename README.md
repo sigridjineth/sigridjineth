@@ -27,5 +27,5 @@ I am an independent student researcher being active in South Korea. My main area
 ### 📫 How to reach me
 - linkedin: https://www.linkedin.com/in/jinhyungp1/
 - brief page: http://bit.ly/jypthemiracle
-- dev portfolio: http://abit.ly/jypthemiracle-dev
+- development resume: http://abit.ly/jinhyung-resume
 - email: hophfg@yahoo.co.kr
