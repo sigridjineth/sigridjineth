@@ -1,6 +1,6 @@
 ### Jin Hyung Park -- @jypthemiracle
 
-👋 Hi! Welcome to my GitHub place for those who passing by as a stranger or my acquiantance.
+👋 Hi! Welcome to my GitHub place for those who pass by as a stranger or my acquiantance.
 I am an independent student researcher and back-end developer being active in South Korea, currently taking military leave expected to be end on May 2022.
 
 ### Education
