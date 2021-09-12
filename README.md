@@ -1,4 +1,4 @@
-### Jin Hyung Park -- @jypthemiracle
+### Jin Hyung Park known as Sigrid Jin -- @jypthemiracle
 
 👋 Hi! Welcome to my GitHub place for those who pass by as a stranger or my acquiantance.
 I am an independent student researcher and back-end developer being active in South Korea, currently taking military leave expected to be end on May 2022.
