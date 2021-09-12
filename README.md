@@ -1,7 +1,18 @@
 ### Jin Hyung Park -- @jypthemiracle
 
-👋 Hi! Welcome to my GitHub place.
-I am an independent student researcher being active in South Korea. My main areas of interest are back-end development in general, economics with data science, aviation science with related business, and software education for the general public.
+👋 Hi! Welcome to my GitHub place for those who passing by as a stranger or my acquiantance.
+I am an independent student researcher and back-end developer being active in South Korea, currently taking military leave expected to be end on May 2022.
+
+### Education
+* Department of Mathematics, Interdisciplinary Studies, Kyung Hee University. (2018.03~)
+* Chinese Major, Seoul Foreign Language High School. (2015.03 ~ 2017.02)
+
+### Interests
+* Back-end development in general.
+* Econometrics, Data Science.
+* Aviation Business.
+* Software Education.
+* FinTech & Cryptocurrency.
 
 ### Message from me with love💪
 ![message_svg](https://github.com/jypthemiracle/jypthemiracle/blob/master/chat.svg)
