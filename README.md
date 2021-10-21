@@ -16,7 +16,6 @@ I am an independent student researcher and back-end developer being active in So
 * FinTech & Cryptocurrency.
 
 ### Message from me with love💪
-![message_svg](https://github.com/jypthemiracle/jypthemiracle/blob/master/chat.svg)
 
 ### See how extent Sigrid Jin loves algorithm❤️
 [![Solved.ac
