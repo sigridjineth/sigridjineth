@@ -26,9 +26,8 @@ I am an independent student researcher and back-end developer being active in So
 ![snake svg](https://github.com/jypthemiracle/jypthemiracle/blob/output/github-contribution-grid-snake.svg)
 
 ### 🔭 Languages & Frameworks
-- Java & Spring Boot (Intermediate)
-- Python (Novice)
-- JavaScript/TypeScript & Node.js (Novice)
+- Java & Spring Boot (Intermediate, Primary Language/Framework)
+- Python/ESNext+ (Novice)
 
 ### 👯 Previous Side jobs (until August 2020)
 - Refactoring Manager at Sullivan Project(설리번 프로젝트 @sullivanproject), the program for directing developers to build their first-ever instructional experience.
