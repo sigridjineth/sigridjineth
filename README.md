@@ -27,7 +27,7 @@ I am an independent student researcher and back-end developer being active in So
 
 ### 🔭 Languages & Frameworks
 - Java & Spring Boot (Intermediate, Primary Language/Framework)
-- Python/ESNext+ (Novice)
+- Python/ESNext+ (Novice, Languages to solve PS challenges)
 
 ### 👯 Previous Side jobs (until August 2020)
 - Refactoring Manager at Sullivan Project(설리번 프로젝트 @sullivanproject), the program for directing developers to build their first-ever instructional experience.
