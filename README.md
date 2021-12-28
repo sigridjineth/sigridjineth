@@ -39,5 +39,5 @@ I am an independent student researcher and back-end developer being active in So
 - linkedin: https://www.linkedin.com/in/jinhyungp1/
 - brief page: http://bit.ly/jypthemiracle
 - development resume: http://abit.ly/jinhyung-resume
-- tech blog: https://medium.com/@jypthemiracle
-- email: hophfg@yahoo.co.kr
+- tech blog: https://jypthemiracle.medium.com
+- email: sigrid.jinhyung@gmail.com
