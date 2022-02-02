@@ -4,8 +4,8 @@
 I am an independent student researcher and back-end developer being active in South Korea, currently taking military leave expected to be end on May 2022.
 
 ### Education
-* Back-end masters course, CodeSquad, Seoul-based programming bootcamp. (2020.01 ~ 2020.08)
-* Department of Mathematics, Interdisciplinary Studies, Kyung Hee University. (2018.03~)
+* Back-end masters course, CodeSquad, Seoul-based programming hackerschool. (2020.01 ~ 2020.08)
+* Department of Mathematics, Kyung Hee University. (2018.03 ~)
 * Chinese Major, Seoul Foreign Language High School. (2015.03 ~ 2017.02)
 
 ### Interests
