@@ -9,11 +9,9 @@ I am an independent student researcher and back-end developer being active in So
 * Chinese Major, Seoul Foreign Language High School. (2015.03 ~ 2017.02)
 
 ### Interests
-* Back-end development in general.
-* Econometrics, Data Science.
-* Aviation Business.
-* Software Education.
-* FinTech & Cryptocurrency.
+* JVM/ESNext+ Backend development
+* Web3/Crypto, Zero-knowledge proof
+* Macroeconomics Research, Aviation Business.
 
 ### Message from me with love💪
 ![chat_svg](https://github.com/jypthemiracle/jypthemiracle/blob/master/chat.svg)
