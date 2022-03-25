@@ -26,7 +26,7 @@ I am an independent student researcher and back-end developer being active in So
 ### 🔭 Languages & Frameworks
 * Minimum Viable Products (MVPs) and Proof of Concepts (PoCs) are some of the quickest ways to make ideas more tangible and to experiment with new technologies (relatively speaking). Albeit on a smaller scale, here's where I put some of mine.
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={jypthemiracle})
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jypthemiracle)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
