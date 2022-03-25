@@ -24,14 +24,17 @@ I am an independent student researcher and back-end developer being active in So
 ![snake svg](https://github.com/jypthemiracle/jypthemiracle/blob/output/github-contribution-grid-snake.svg)
 
 ### 🔭 Languages & Frameworks
-- Java/Kotlin & Spring Boot (Intermediate, Primary Language/Framework)
-- Python/ESNext+/Solidity/React-Bootstrap (Novice)
+* Minimum Viable Products (MVPs) and Proof of Concepts (PoCs) are some of the quickest ways to make ideas more tangible and to experiment with new technologies (relatively speaking). Albeit on a smaller scale, here's where I put some of mine.
 
-### 👯 Previous Side jobs (until August 2020)
-- Refactoring Manager at Sullivan Project(설리번 프로젝트 @sullivanproject), the program for directing developers to build their first-ever instructional experience.
-- Activist at NullFull(널채움 @nullfull), the civic hacking community located in Seoul, South Korea.
-- Organizer at AngelHack Seoul (엔젤핵 서울 @angelhackseoul), the one of the largest global-based hackathon convening in Seoul, South Korea.
-- The self-proclaimed [@thisissigrid](https://www.thisissigrid.com/) Ambassador to South Korea. Sigrid Rabbe is a powerful and charming Norwegian singer and songwriter. Hope you find to enjoy [Sucker Punch](https://www.youtube.com/watch?v=1uHt2LrCSWg), the favorite of mine.
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={jypthemiracle})
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
 
 ### 📫 How to reach me
 - linkedin: https://www.linkedin.com/in/jinhyungp1/
