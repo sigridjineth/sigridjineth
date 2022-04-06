@@ -1,7 +1,7 @@
 ### Jin Hyung Park known as Sigrid Jin -- @jypthemiracle
 
 👋 Hi! Welcome to my GitHub place for those who pass by as a stranger or my acquiantance.
-I am an independent student researcher and back-end developer being active in South Korea, currently assuming his military duty to be officially end on May 2022.
+I am an independent student researcher, backend and smart contract developer being active in South Korea.
 
 ### Education
 * Back-end masters course, CodeSquad, Seoul-based programming hackerschool. (2020.01 ~ 2020.08)
