@@ -10,9 +10,9 @@ I am an independent student researcher, backend and smart contract developer bei
 * Chinese Major, Seoul Foreign Language High School. (2015.03 ~ 2017.02)
 
 ### Interests
-* JVM/ESNext+ Backend development
-* Web3/Crypto, Zero-knowledge proof
-* Macroeconomics Research, Aviation Business.
+* web2 me: JVM/ESNext+ Backend development
+* web3 me: Ethereum Solidity, zk-STARKs, Cosmwasm, Solana
+* researcher me: Macroeconomics Research, Aviation Business.
 
 ### Message from me with love💪
 ![chat_svg](https://github.com/jypthemiracle/jypthemiracle/blob/master/chat.svg)
