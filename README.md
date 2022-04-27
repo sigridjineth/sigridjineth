@@ -3,16 +3,21 @@
 👋 Hi! Welcome to my GitHub place for those who pass by as a stranger or my acquiantance.
 I am an independent student researcher, backend and smart contract developer being active in South Korea.
 
+```rust
+sigridjin.eth = {
+  github = "jypthemiracle",
+  email = "sigrid.jinhyung@gmail.com",
+  web2_me = JAVA, KOTLIN, SPRING_BOOT, JAVASCRIPT, TYPESCRIPT, PYTHON,
+  web3_me = ETHEREUM, SOLIDITY, ZK_STARKS, COSMWASM, SOLANA,
+  researcher_me = MACROECONOMICS, AVIATION_BUSINESS
+} :: LunaticPerson
+```
+
 ### Education
 * Back-end masters course, CodeSquad, Seoul-based programming hackerschool. (2020.01 ~ 2020.08)
 * Department of Mathematics, Kyung Hee University. (2018.03 ~)
 * Virtual High School, Ontario, Canada (2020.03 ~)
 * Chinese Major, Seoul Foreign Language High School. (2015.03 ~ 2017.02)
-
-### Interests
-* web2 me: JVM/ESNext+ Backend development
-* web3 me: Ethereum Solidity, zk-STARKs, Cosmwasm, Solana
-* researcher me: Macroeconomics Research, Aviation Business.
 
 ### Message from me with love💪
 ![chat_svg](https://github.com/jypthemiracle/jypthemiracle/blob/master/chat.svg)
