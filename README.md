@@ -9,7 +9,8 @@ sigridjin.eth = {
   email = "sigrid.jinhyung@gmail.com",
   web2_me = JAVA, KOTLIN, SPRING_BOOT, JAVASCRIPT, TYPESCRIPT, PYTHON,
   web3_me = ETHEREUM, SOLIDITY, ZK_STARKS, COSMWASM, SOLANA,
-  researcher_me = MACROECONOMICS, AVIATION_BUSINESS
+  researcher_me = MACROECONOMICS, AVIATION_BUSINESS,
+  student_me = KyungHee.MATHEMATICS
 } :: LunaticPerson
 ```
 
