@@ -16,7 +16,7 @@ sigridjin.eth = {
 
 ### Past Works
 * Research intern at tech-education affairs at [NAVER CONNECT](https://connect.or.kr/) (mainly at boostcamp team & entry AI, 2019 ~ 2020)
-* some fintech/crypto startups located at Seoul, South Korea ([Chain Partners](https://chain.partners/), [teamw.e](teamwe.me), 2018.03 ~ 2019.02)
+* some fintech/crypto startups located at Seoul, South Korea ([Chain Partners](https://chain.partners/) & [teamw.e](teamwe.me), 2018.03 ~ 2019.02)
 * research freelance at The Economist & JoongAng Ilbo Folin.
 * proudly [nonce community](https://nonce.community/) alumni (co-living and co-working at genesis / 2018.03 ~ 2019.10)
 
