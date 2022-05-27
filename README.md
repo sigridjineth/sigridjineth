@@ -1,11 +1,11 @@
-### Jin Hyung Park known as Sigrid Jin -- @jypthemiracle
+### Jin Hyung Park known as Sigrid Jin -- @sigridjineth
 
 👋 Hi! Welcome to my GitHub place for those who pass by as a stranger or my acquiantance.
 I am an independent student researcher, backend and smart contract developer being active in South Korea.
 
 ```rust
 sigridjin.eth = {
-  github = "jypthemiracle",
+  github = "sigridjineth",
   email = "sigrid.jinhyung@gmail.com",
   web2_me = JAVA, KOTLIN, SPRING_BOOT, JAVASCRIPT, TYPESCRIPT, PYTHON,
   web3_me = ETHEREUM, SOLIDITY, ZK_STARKS, COSMWASM, SOLANA,
