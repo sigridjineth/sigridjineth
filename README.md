@@ -14,7 +14,9 @@ sigridjin.eth = {
 } :: LunaticPerson
 ```
 
-### Past Works
+### Work Experiences
+* Web3/Crypto Technical Researcher & Developer Advocate at [DSRV](www.dsrvlabs.com)
+* [CodeSquad](www.codesquad.kr) Masters Course Spring Backend Code Reviewer, 2022
 * Research intern at tech-education affairs at [NAVER CONNECT](https://connect.or.kr/) (mainly at boostcamp team & entry AI, 2019 ~ 2020)
 * some fintech/crypto startups located at Seoul, South Korea ([Chain Partners](https://chain.partners/) & [teamw.e](http://teamwe.me), 2018.03 ~ 2019.02)
 * research freelance at The Economist & JoongAng Ilbo Folin (2018 ~ 2019)
@@ -34,12 +36,12 @@ sigridjin.eth = {
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jypthemiracle)](https://solved.ac/jypthemiracle)
 
 ### Watch my contribution graph get eaten by the snake🐍
-![snake svg](https://github.com/jypthemiracle/jypthemiracle/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/sigridjineth/sigridjineth/blob/output/github-contribution-grid-snake.svg)
 
 ### 🔭 Languages & Frameworks
 * Minimum Viable Products (MVPs) and Proof of Concepts (PoCs) are some of the quickest ways to make ideas more tangible and to experiment with new technologies (relatively speaking). Albeit on a smaller scale, here's where I put some of mine.
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jypthemiracle)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sigridjineth)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
