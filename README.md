@@ -23,6 +23,7 @@ sigridjin.eth = {
 * proudly [nonce community](https://nonce.community/) alumni (co-living at genesis, Ethereum Research Group Member / 2018.03 ~ 2019.10)
 
 ### Education
+* 2nd cohort graduate, [Harmony Protocol zkDAO](https://zku.one/) (2022.03 ~ 2022.05)
 * Back-end masters course, CodeSquad, Seoul-based programming hackerschool. (2020.01 ~ 2020.08)
 * Department of Mathematics, Kyung Hee University. (2018.03 ~)
 * Virtual High School, Ontario, Canada (2020.03 ~)
