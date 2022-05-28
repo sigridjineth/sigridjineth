@@ -15,7 +15,7 @@ sigridjin.eth = {
 ```
 
 ### Work Experiences
-* Web3/Crypto Technical Researcher & Developer Evangelist at [DSRV](www.dsrvlabs.com), the blockchain infrastructure validator and provider.
+* Web3/Crypto Technical Researcher & Developer Evangelist at [DSRV](www.dsrvlabs.com), the blockchain infrastructure provider and validator.
 * Code Reviewer on 2022 Spring Back-end masters course at [CodeSquad](www.codesquad.kr), Seoul-based programming hackerschool.
 * Research intern at tech-education affairs at [NAVER CONNECT](https://connect.or.kr/) (mainly at boostcamp team & entry AI, 2019 ~ 2020)
 * some fintech/crypto startups located at Seoul, South Korea ([Chain Partners](https://chain.partners/) & [teamw.e](http://teamwe.me), 2018.03 ~ 2019.02)
