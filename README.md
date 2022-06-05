@@ -1,7 +1,7 @@
 ### Jin Hyung Park known as Sigrid Jin -- @sigridjineth
 
 👋 Hi! Welcome to my GitHub place for those who pass by as a stranger or my acquiantance.
-I am an independent student researcher, backend and smart contract developer being active in South Korea.
+I am an independent student technical researcher and writer, being active in South Korea.
 
 ```rust
 sigridjin.eth = {
