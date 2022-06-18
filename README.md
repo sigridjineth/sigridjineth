@@ -1,4 +1,4 @@
-### Jin Hyung Park known as Sigrid Jin -- @sigridjineth
+### Sigrid Jin -- @sigridjineth
 
 👋 Hi! Welcome to my GitHub place for those who pass by as a stranger or my acquiantance.
 I am an independent student technical researcher and writer, being active in South Korea.
@@ -11,6 +11,7 @@ sigridjin.eth = {
   web3_me = ETHEREUM, SOLIDITY, ZK_STARKS, COSMWASM, SOLANA,
   researcher_me = MACROECONOMICS, AVIATION_BUSINESS,
   student_me = KyungHee.MATHEMATICS
+  passport_identity = new South_Korean("Jin Hyung Park")
 } :: LunaticPerson
 ```
 
