@@ -1,4 +1,4 @@
-### Sigrid Jin -- @sigridjineth
+### Sigrid Jin (sigridjin.eth)
 
 👋 Hi! Welcome to my GitHub place for those who pass by as a stranger or my acquiantance.
 I am an independent student technical researcher and writer, being active in South Korea.
@@ -7,6 +7,7 @@ I am an independent student technical researcher and writer, being active in Sou
 sigridjin.eth = {
   github = "sigridjineth",
   email = "sigrid.jinhyung@gmail.com",
+  twitter = "sigridjin_eth",
   web2_me = JAVA, KOTLIN, SPRING_BOOT, JAVASCRIPT, TYPESCRIPT, PYTHON,
   web3_me = ETHEREUM, SOLIDITY, ZK_STARKS, COSMWASM, SOLANA,
   researcher_me = MACROECONOMICS, AVIATION_BUSINESS,
