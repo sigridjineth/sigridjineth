@@ -2,7 +2,7 @@
   "dependencies": {
     "date-fns": "^2.23.0",
     "fs": "^0.0.1-security",
-    "got": "^11.8.2",
+    "got": "^11.8.5",
     "js-quantities": "^1.7.6",
     "openweather-apis": "^4.4.1"
   }
