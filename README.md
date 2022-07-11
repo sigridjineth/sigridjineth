@@ -9,17 +9,17 @@ sigridjin.eth = {
   email = "sigrid.jinhyung@gmail.com",
   twitter = "sigridjin_eth",
   web2_me = JAVA, KOTLIN, SPRING_BOOT, JAVASCRIPT, TYPESCRIPT, PYTHON,
-  web3_me = ETHEREUM, SOLIDITY, ZK_STARKS, COSMWASM, SOLANA,
-  researcher_me = MACROECONOMICS, AVIATION_BUSINESS,
+  web3_me = ETHEREUM, SOLIDITY, ZK_SNARKS, COSMWASM, SOLANA, MOVE, RUST
+  researcher_me = MACROECONOMICS, AVIATION_MOBILITY_BUSINESS,
   student_me = KyungHee.MATHEMATICS
-  passport_identity = new South_Korean("Jin Hyung Park")
+  passport_identity = new Korean("Jin Hyung Park")
 } :: LunaticPerson
 ```
 
 ### Work Experiences
 * Web3/Crypto Technical Researcher & Developer Evangelist at [DSRV](www.dsrvlabs.com), the blockchain infrastructure provider and validator.
 * Code Reviewer on 2022 Spring Back-end masters course at [CodeSquad](www.codesquad.kr), Seoul-based programming hackerschool.
-* Research intern at tech-education affairs at [NAVER CONNECT](https://connect.or.kr/) (mainly at boostcamp team & entry AI, 2019 ~ 2020)
+* Research intern at [NAVER CONNECT](https://connect.or.kr/) ([부스트캠프 boostcamp](https://boostcamp.connect.or.kr/) & [Entry AI](https://entry.line.me/) 2019 ~ 2020)
 * some fintech/crypto startups located at Seoul, South Korea ([Chain Partners](https://chain.partners/) & [teamw.e](http://teamwe.me), 2018.03 ~ 2019.02)
 * research freelance at The Economist & JoongAng Ilbo Folin (2018 ~ 2019)
 * proudly [nonce community](https://nonce.community/) alumni (co-living at genesis, Ethereum Research Group Member / 2018.03 ~ 2019.10)
