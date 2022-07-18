@@ -19,9 +19,9 @@ sigridjin.eth = {
 ### Work Experiences
 * Web3/Crypto Technical Researcher & Developer Evangelist at [DSRV](www.dsrvlabs.com), the blockchain infrastructure provider and validator.
 * Code Reviewer on 2022 Spring Backend masters course at [CodeSquad](https://codesquad.kr/), Seoul-based programming hackerschool.
-* Research intern at [NAVER CONNECT](https://connect.or.kr/) ([부스트캠프 boostcamp](https://boostcamp.connect.or.kr/) & [Entry AI](https://entry.line.me/) 2019.07 ~ 2020.01)
+* Techie Research intern at [NAVER CONNECT](https://connect.or.kr/) ([부스트캠프 boostcamp](https://boostcamp.connect.or.kr/) & [Entry AI](https://entry.line.me/) 2019.07 ~ 2020.01)
 * some fintech/crypto startups located at Seoul, South Korea ([Chain Partners](https://chain.partners/) & [teamw.e](http://teamwe.me), 2018.03 ~ 2019.02)
-* research freelance at The Economist & JoongAng Ilbo Folin (2018 ~ 2019)
+* Non-techie research freelance at The Economist & JoongAng Ilbo Folin (2018 ~ 2019)
 * proudly [nonce community](https://nonce.community/) alumni (co-living at genesis, Ethereum Research Group Member / 2018.03 ~ 2019.10)
 
 ### Education
@@ -29,7 +29,7 @@ sigridjin.eth = {
 * 2nd cohort graduate, [Harmony Protocol zkDAO](https://zku.one/) (2022.03 ~ 2022.05)
 * Backend masters course, [CodeSquad](http://codesquad.kr/), Seoul-based programming hackerschool. (2020.01 ~ 2020.08)
 * Department of Mathematics (Cryptography), Kyung Hee University. (2018.03 ~)
-* Virtual High School, Ontario, Canada (2020.03 ~)
+* Virtual High School, Ontario, Canada (2020.03 ~ dropped out)
 * Chinese Major, Seoul Foreign Language High School. (2015.03 ~ 2017.02)
 
 ### Message from me with love💪
