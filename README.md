@@ -17,7 +17,7 @@ sigridjin.eth = {
 ```
 
 ### Work Experiences
-* Web3/Crypto Technical Researcher & Developer Evangelist at [DSRV](www.dsrvlabs.com), the blockchain infrastructure provider and validator.
+* Software Engineer & Technical Writer at [DSRV](www.dsrvlabs.com), the blockchain infrastructure provider and validator.
 * Code Reviewer on 2022 Spring Backend masters course at [CodeSquad](https://codesquad.kr/), Seoul-based programming hackerschool.
 * Techie Research intern at [NAVER CONNECT](https://connect.or.kr/) ([부스트캠프 boostcamp](https://boostcamp.connect.or.kr/) & [Entry AI](https://entry.line.me/) 2019.07 ~ 2020.01)
 * some fintech/crypto startups located at Seoul, South Korea ([Chain Partners](https://chain.partners/) & [teamw.e](http://teamwe.me), 2018.03 ~ 2019.02)
@@ -54,6 +54,7 @@ sigridjin.eth = {
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
