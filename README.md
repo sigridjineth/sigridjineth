@@ -19,7 +19,7 @@ func (s *sigridjin_eth) NewSigridJinEth {
 		github:    GitHub {"sigridjin_eth"},
 		email: 	   Email {"sigrid.jinhyung@gmail.com"},
 		twitter:   Twitter {"@sigridjin_eth"},
-		linkedIn:  LinkedIn {"https://linkedin.com/in/jinhyungp1"},
+		linkedIn:  LinkedIn {"Jin Hyung Park (Sigrid Jin)"},
 		TechStack: []Technology{
       				"Java Spring", "Go", "Rust",
 				"Python", "Solidity", "Circom",
