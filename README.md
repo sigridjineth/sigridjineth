@@ -3,17 +3,37 @@
 👋 Hi! Welcome to my GitHub place for those who pass by as a stranger or my acquiantance.
 I am an independent student technical researcher and writer, being active in South Korea.
 
-```rust
-sigridjin.eth = {
-  github = "sigridjineth",
-  email = "sigrid.jinhyung@gmail.com",
-  twitter = "sigridjin_eth",
-  web2_me = JAVA, KOTLIN, SPRING_BOOT, JAVASCRIPT, TYPESCRIPT, PYTHON,
-  web3_me = ETHEREUM, SOLIDITY, CIRCOMLIB, GO, RUST
-  researcher_me = MACROECONOMICS, AVIATION_MOBILITY_BUSINESS,
-  student_me = KyungHee.MATHEMATICS
-  passport_identity = new Korean("Jin Hyung Park")
-} :: LunaticPerson
+```golang
+type sigridjin_eth struct {
+	github        GitHub
+	email         Email
+	twitter       Twitter
+	TechStack     []Technology
+	student       []School
+	legalIdentity PassportIdentity
+}
+
+func (s *sigridjin_eth) NewSigridJinEth {
+	return *sigridjin_eth{
+		github:     GitHub{"sigridjin_eth"},
+		email: 			Email{"sigrid.jinhyung@gmail.com"},
+		twitter:		Twitter{"@sigridjin_eth"},
+		TechStack: []Technology{
+      "Java Spring", "Go",
+      "Rust", "Python",
+      "Solidity", "Circom",
+      "TypeScript", "JavaScript"
+    },
+		Student: []School{
+      "Mathematics at Kyung Hee University",
+      "CodeSquad Backend Alumni", "Harmony ZKU Alumni",
+      "Chinese Major at Seoul Foreign Language High School Alumni"
+    },
+		legalIdentity: PassportIdentity{
+      nationality: "Korean",
+      legalName: "Jin Hyung Park"
+    },
+}
 ```
 
 ### Work Experiences
