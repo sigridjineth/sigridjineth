@@ -28,11 +28,11 @@ func (s *sigridjin_eth) NewSigridJinEth() *sigridjin_eth {
 		Student: []School{
       				"Mathematics at Kyung Hee University",
       				"CodeSquad Backend Alumni", "Harmony ZKU Alumni",
-      				"Chinese Major at Seoul Foreign Language High School Alumni"
+      				"Chinese Major at Seoul Foreign Language High School Alumni",
     		},
 		legalIdentity: PassportIdentity{
       				nationality: "Korean",
-      				legalName: "Jin Hyung Park"
+      				legalName: "Jin Hyung Park",
     		},
 	},
 }
