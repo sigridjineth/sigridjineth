@@ -18,12 +18,12 @@ func (s *sigridjin_eth) NewSigridJinEth() *sigridjin_eth {
 	return *sigridjin_eth{
 		github:    GitHub{"sigridjin_eth"},
 		email: 	   Email{"sigrid.jinhyung@gmail.com"},
-		twitter:   Twitter{"@sigridjin_eth"},
+		twitter:   Twitter{"sigridjin_eth"},
 		linkedIn:  LinkedIn{"Jin Hyung Park (Sigrid Jin)"},
 		TechStack: []Technology{
       				"Java Spring", "Go", "Rust",
 				"Python", "Solidity", "Circom",
-      				"TypeScript", "JavaScript", "AWS"
+      				"TypeScript", "JavaScript", "AWS",
     		},
 		Student: []School{
       				"Mathematics at Kyung Hee University",
