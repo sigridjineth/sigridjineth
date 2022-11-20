@@ -8,6 +8,7 @@ type sigridjin_eth struct {
 	github        GitHub
 	email         Email
 	twitter       Twitter
+	linkedIn      LinkedIn
 	TechStack     []Technology
 	student       []School
 	legalIdentity PassportIdentity
@@ -15,24 +16,25 @@ type sigridjin_eth struct {
 
 func (s *sigridjin_eth) NewSigridJinEth {
 	return *sigridjin_eth{
-		github:     GitHub{"sigridjin_eth"},
-		email: 			Email{"sigrid.jinhyung@gmail.com"},
-		twitter:		Twitter{"@sigridjin_eth"},
+		github:    GitHub {"sigridjin_eth"},
+		email: 	   Email {"sigrid.jinhyung@gmail.com"},
+		twitter:   Twitter {"@sigridjin_eth"},
+		linkedIn:  LinkedIn {"https://linkedin.com/in/jinhyungp1"},
 		TechStack: []Technology{
-      "Java Spring", "Go",
-      "Rust", "Python",
-      "Solidity", "Circom",
-      "TypeScript", "JavaScript"
-    },
+      				"Java Spring", "Go", "Rust",
+				"Python", "Solidity", "Circom",
+      				"TypeScript", "JavaScript", "AWS"
+    		},
 		Student: []School{
-      "Mathematics at Kyung Hee University",
-      "CodeSquad Backend Alumni", "Harmony ZKU Alumni",
-      "Chinese Major at Seoul Foreign Language High School Alumni"
-    },
+      				"Mathematics at Kyung Hee University",
+      				"CodeSquad Backend Alumni", "Harmony ZKU Alumni",
+      				"Chinese Major at Seoul Foreign Language High School Alumni"
+    		},
 		legalIdentity: PassportIdentity{
-      nationality: "Korean",
-      legalName: "Jin Hyung Park"
-    },
+      				nationality: "Korean",
+      				legalName: "Jin Hyung Park"
+    		},
+	},
 }
 ```
 
