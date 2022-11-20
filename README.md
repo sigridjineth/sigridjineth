@@ -14,7 +14,7 @@ type sigridjin_eth struct {
 	legalIdentity PassportIdentity
 }
 
-func (s *sigridjin_eth) NewSigridJinEth {
+func (s *sigridjin_eth) NewSigridJinEth() *sigridjin_eth {
 	return *sigridjin_eth{
 		github:    GitHub {"sigridjin_eth"},
 		email: 	   Email {"sigrid.jinhyung@gmail.com"},
