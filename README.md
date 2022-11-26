@@ -11,7 +11,6 @@ type sigridjin_eth struct {
 	linkedIn      LinkedIn
 	TechStack     []Technology
 	student       []School
-	legalIdentity PassportIdentity
 }
 
 func (s *sigridjin_eth) NewSigridJinEth() *sigridjin_eth {
@@ -19,7 +18,6 @@ func (s *sigridjin_eth) NewSigridJinEth() *sigridjin_eth {
 		github:    GitHub{"sigridjin_eth"},
 		email: 	   Email{"sigrid.jinhyung@gmail.com"},
 		twitter:   Twitter{"sigridjin_eth"},
-		linkedIn:  LinkedIn{"Jin Hyung Park (Sigrid Jin)"},
 		TechStack: []Technology{
       				"Java Spring", "Go", "Rust",
 				"Python", "Solidity", "Circom",
@@ -29,10 +27,6 @@ func (s *sigridjin_eth) NewSigridJinEth() *sigridjin_eth {
       				"Mathematics at Kyung Hee University",
       				"CodeSquad Backend Alumni", "Harmony ZKU Alumni",
       				"Chinese Major at Seoul Foreign Language High School Alumni",
-    		},
-		legalIdentity: PassportIdentity{
-      				nationality: "Korean",
-      				legalName: "Jin Hyung Park",
     		},
 	},
 }
