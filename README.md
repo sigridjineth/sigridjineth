@@ -79,6 +79,6 @@ func (s *sigridjin_eth) NewSigridJinEth() *sigridjin_eth {
 ### 📫 How to reach me
 - linkedin: https://www.linkedin.com/in/jinhyungp1/
 - brief page: http://bit.ly/jypthemiracle
-- development resume: http://abit.ly/jinhyung-resume
+- development resume: https://abit.ly/jinhyung-resume-kor
 - tech blog: https://jypthemiracle.medium.com
 - email: sigrid.jinhyung@gmail.com
