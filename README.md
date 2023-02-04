@@ -58,19 +58,8 @@ func (s *sigridjin_eth) NewSigridJinEth() *sigridjin_eth {
 ### Watch my contribution graph get eaten by the snake🐍
 ![snake svg](https://github.com/sigridjineth/sigridjineth/blob/output/github-contribution-grid-snake.svg)
 
-### 🔭 Languages & Frameworks
-* Minimum Viable Products (MVPs) and Proof of Concepts (PoCs) are some of the quickest ways to make ideas more tangible and to experiment with new technologies (relatively speaking). Albeit on a smaller scale, here's where I put some of mine.
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sigridjineth)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+### 🔭 Philosophy
+* Minimum Viable Products (MVPs) and Proof of Concepts (PoCs) are some of the quickest ways to make ideas more tangible and to experiment with new technologies (relatively speaking).
 
 ### 📫 How to reach me
 - linkedin: https://www.linkedin.com/in/jinhyungp1/
