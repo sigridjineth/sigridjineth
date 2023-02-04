@@ -33,7 +33,7 @@ func (s *sigridjin_eth) NewSigridJinEth() *sigridjin_eth {
 ```
 
 ### Work Experiences
-* Software Engineer & Technical Writer at [DSRV](www.dsrvlabs.com), the blockchain infrastructure provider and validator.
+* Software Engineer at [DSRV](www.dsrvlabs.com), the blockchain infrastructure provider and validator.
 * Code Reviewer on 2022 Spring Backend masters course at [CodeSquad](https://codesquad.kr/), Seoul-based programming hackerschool.
 * Techie Research intern at [NAVER CONNECT](https://connect.or.kr/) ([부스트캠프 boostcamp](https://boostcamp.connect.or.kr/) & [Entry AI](https://entry.line.me/) 2019.07 ~ 2020.01)
 * some fintech/crypto startups located at Seoul, South Korea ([Chain Partners](https://chain.partners/) & [teamw.e](http://teamwe.me), 2018.03 ~ 2019.02)
@@ -64,21 +64,15 @@ func (s *sigridjin_eth) NewSigridJinEth() *sigridjin_eth {
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sigridjineth)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 📫 How to reach me
 - linkedin: https://www.linkedin.com/in/jinhyungp1/
-- brief page: http://bit.ly/jypthemiracle
-- development resume: https://abit.ly/jinhyung-resume-kor
-- tech blog: https://jypthemiracle.medium.com
+- tech blog: https://sigridjin.medium.com
 - email: sigrid.jinhyung@gmail.com
