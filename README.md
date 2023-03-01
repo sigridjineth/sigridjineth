@@ -40,7 +40,8 @@ func (s *sigridjin_eth) NewSigridJinEth() *sigridjin_eth {
 * Non-techie research freelance at The Economist & JoongAng Ilbo Folin (2018 ~ 2019)
 * proudly [nonce community](https://nonce.community/) alumni (co-living at genesis, Ethereum Research Group Member / 2018.03 ~ 2019.10)
 
-### Education
+### Education & Extracuricular Activities
+* The commiter of DAO-focused PBFT Blockchain Engine, [Simperby](https://github.com/postech-dao/simperby) maintained by POSTECH University DAO
 * 30th SERVER Part Member, [THE SOPT](http://sopt.org/), the student-joint programming club in Seoul-based universities (2022.03 ~ 2022.07)
 * 2nd cohort graduate, [Harmony Protocol zkDAO](https://zku.one/) (2022.03 ~ 2022.05)
 * Backend masters course, [CodeSquad](http://codesquad.kr/), Seoul-based programming hackerschool. (2020.01 ~ 2020.08)
