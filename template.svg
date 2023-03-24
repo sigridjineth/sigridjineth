@@ -279,7 +279,7 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="459" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I’m eager to challenge new things!</text>
-    <text x="15" y="50">Now learning Crypto/Web3/backend fields.</text>
+    <text x="15" y="50">Now extensively learning ZK and LLM fields</text>
   </g>
 
   <!-- typing 4 -->
@@ -304,8 +304,8 @@
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="415" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      You can find me on
-      <a xlink:href="https://abit.ly/jypthemiracle">https://abit.ly/jypthemiracle</a>
+      Find me on
+      <a xlink:href="https://twitter.com/sigridjin_eth">https://twitter.com/sigridjin_eth</a>
     </text>
   </g>
 
@@ -330,7 +330,6 @@
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="255" height="66.13" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Stay safe on this pandemic!</text>
     <text x="15" y="47">Have a great {todayDay}! <tspan class="emoji">👋</tspan></text>
   </g>
 </svg>
