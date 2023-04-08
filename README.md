@@ -1,7 +1,7 @@
 ### Sigrid Jin (sigridjin.eth)
 
 👋 Hi! Welcome to my GitHub place for those who pass by as a stranger or my acquiantance.
-I am an independent student technical researcher and writer, being active in South Korea.
+I am an junor-level software developer covering backend, data and smart contract engineering while pursuing mathematics degree on the college located in Seoul.
 
 ```golang
 type sigridjin_eth struct {
