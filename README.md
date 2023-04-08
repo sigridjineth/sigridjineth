@@ -2,7 +2,7 @@
 
 👋 Hi! Welcome to my GitHub place for those who pass by as a stranger or my acquiantance.
 
-I am a junior-level software developer specializing in web backend and core engineering (but not limited to), pursuing a foundation in mathematics degree in college degree program in Seoul, South Korea. My keen interest in large language model (LLM) system architecture and developing zero-knowledge (ZK) circuits sets me apart using Golang and Rust.
+I am a junior-level software engineer specializing in web backend and core engineering (but not limited to), pursuing a foundation in mathematics degree in college degree program in Seoul, South Korea. My keen interest in large language model (LLM) system architecture and developing zero-knowledge (ZK) circuits sets me apart using Golang and Rust.
 
 In addition to the technical prowess, I enjoy writing educational materials and engaging in public speaking and technical writing to help fellow developers gain an understanding of software concepts.
 
@@ -36,7 +36,7 @@ func (s *sigridjin_eth) NewSigridJinEth() *sigridjin_eth {
 ```
 
 ### Work Experiences
-* Software Engineer at [DSRV](www.dsrvlabs.com), the blockchain infrastructure provider and validator.
+* Software Engineer at [DSRV](https://www.dsrvlabs.com), the blockchain infrastructure provider and validator.
 * Code Reviewer on Spring Backend masters course at [CodeSquad](https://codesquad.kr/), Seoul-based programming hackerschool (2022 ~)
 * Techie Research intern at [NAVER CONNECT](https://connect.or.kr/) ([부스트캠프 boostcamp](https://boostcamp.connect.or.kr/) & [Entry AI](https://entry.line.me/) 2019.07 ~ 2020.01)
 * some fintech/crypto startups located at Seoul, South Korea ([Chain Partners](https://chain.partners/) & [teamw.e](http://teamwe.me), 2018.03 ~ 2019.02)
