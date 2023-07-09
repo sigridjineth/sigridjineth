@@ -2,25 +2,25 @@
 
 👋 Hi! Welcome to my GitHub place for those who pass by as a stranger or my acquaintance.
 
-I am a Software Engineer specializing in web backend and system core engineering (but not limited to), pursuing a foundation in mathematics degree in a college program at [Kyung Hee University](https://maths.khu.ac.kr/) located in Seoul, South Korea. My keen interest in Golang and Rust with a solid understanding of traditional backend engineering sets me apart.
+I am a Software Engineer specializing in web backend and system core engineering (but not limited to), pursuing a foundation in mathematics degree in a college program at [Kyung Hee University](https://maths.khu.ac.kr/) located in Seoul, South Korea. My keen interest in Ethereum Hobbying using Golang and Rust with a solid understanding of traditional backend engineering sets me apart.
 
 In addition to the technical prowess, I enjoy writing educational materials and engaging in public speaking and technical writing to help fellow developers gain an understanding of software concepts.
 
 ```golang
 type sigridjin_eth struct {
-	github        GitHub
-	email         Email
-	twitter       Twitter
-	linkedIn      LinkedIn
+	GitHub        GitHub
+	Email         Email
+	Twitter       Twitter
+	LinkedIn      LinkedIn
 	TechStack     []Technology
-	student       []School
+	Student       []School
 }
 
 func (s *sigridjin_eth) NewSigridJinEth() *sigridjin_eth {
 	return *sigridjin_eth{
-		github:    GitHub{"sigridjin_eth"},
-		email: 	   Email{"sigrid.jinhyung@gmail.com"},
-		twitter:   Twitter{"sigridjin_eth"},
+		GitHub:    GitHub{"sigridjin_eth"},
+		Email: 	   Email{"sigrid.jinhyung@gmail.com"},
+		Twitter:   Twitter{"sigridjin_eth"},
 		TechStack: []Technology{
       				"Java Spring", "Go", "Rust",
 				"Python", "Solidity", "Circom",
