@@ -1,8 +1,8 @@
 ### Sigrid Jin (sigridjin.eth)
 
-👋 Hi! Welcome to my GitHub place for those who pass by as a stranger or my acquiantance.
+👋 Hi! Welcome to my GitHub place for those who pass by as a stranger or my acquaintance.
 
-I am a junior-level software engineer specializing in web backend and core engineering (but not limited to), pursuing a foundation in mathematics degree in college degree program in Seoul, South Korea. My keen interest in developing zero-knowledge (ZK) circuits using Golang and Rust with solid understanding in traditional backend engineering sets me apart.
+I am a Software Engineer specializing in web backend and system core engineering (but not limited to), pursuing a foundation in mathematics degree in college degree program in Seoul, South Korea. My keen interest in Golang and Rust with a solid understanding of traditional backend engineering sets me apart.
 
 In addition to the technical prowess, I enjoy writing educational materials and engaging in public speaking and technical writing to help fellow developers gain an understanding of software concepts.
 
