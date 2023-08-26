@@ -22,9 +22,7 @@ func (s *sigridjin_eth) NewSigridJinEth() *sigridjin_eth {
 		Email: 	   Email{"sigrid.jinhyung@gmail.com"},
 		Twitter:   Twitter{"sigridjin_eth"},
 		TechStack: []Technology{
-      				"Java Spring", "Go", "Rust",
-				"Python", "Solidity", "Circom",
-      				"TypeScript", "JavaScript", "AWS",
+      				"Go", "Rust", "Python", "Node.js", "Java",
     		},
 		Student: []School{
       				"Mathematics at Kyung Hee University",
@@ -36,7 +34,7 @@ func (s *sigridjin_eth) NewSigridJinEth() *sigridjin_eth {
 ```
 
 ### Work Experiences
-* Software Engineer at [DSRV](https://www.dsrvlabs.com), the blockchain infrastructure provider and validator.
+* Software Engineer at [DSRV](https://www.dsrvlabs.com), the blockchain infrastructure provider and validator. (2022.03 ~ 2023.08)
 * Code Reviewer on Spring Backend masters course at [CodeSquad](https://codesquad.kr/), Seoul-based programming hackerschool (2022 ~)
 * Techie Research intern at [NAVER CONNECT](https://connect.or.kr/) ([부스트캠프 boostcamp](https://boostcamp.connect.or.kr/) & [Entry AI](https://entry.line.me/) 2019.07 ~ 2020.01)
 * some fintech/crypto startups located at Seoul, South Korea ([Chain Partners](https://chain.partners/) & [teamw.e](http://teamwe.me), 2018.03 ~ 2019.02)
