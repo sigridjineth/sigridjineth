@@ -2,7 +2,7 @@
 
 👋 Hi! Welcome to my GitHub place for those who pass by as a stranger or my acquaintance.
 
-I am a former Ethereum enthusiast turned versatile Software Engineer with a background in web backend. I am currently broadening my academic horizon by studying for a Mathematics degree at [Kyung Hee University](https://maths.khu.ac.kr/) in Seoul, South Korea. (Yes, I am all-rounder!)
+I am a former Ethereum enthusiast turned versatile Software Engineer with a background in web backend. I am currently broadening my academic horizon by studying for a Mathematics degree in Seoul, South Korea while graduating high schools in both Seoul and Ontario, Canada. (Yes, I am all-rounder!)
 
 My extensive skill set encompasses expertise in managing infrastructure with Kubernetes, designing microservices architectures & data engineering, and developing Python/Golang-based web servers. I am also deeply involved in exploring complex technologies such as Rust-based wasm programs, natural language processing, diffusion models, and have a interest in cryptography including zero knowledge proofs.
 
