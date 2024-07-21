@@ -4,7 +4,7 @@
 
 I am a former Ethereum enthusiast turned versatile Software Engineer with a background in web backend. I am currently broadening my academic horizon by studying for a Mathematics degree at [Kyung Hee University](https://maths.khu.ac.kr/) in Seoul, South Korea. (Yes, I am all-rounder!)
 
-My extensive skill set encompasses expertise in managing infrastructure with Kubernetes, designing microservices architectures & data engineering, and developing Python/Golang-based web servers. I am also deeply involved in exploring complex technologies such as natural language processing, diffusion models, and have a interest in cryptography, including zero knowledge proofs.
+My extensive skill set encompasses expertise in managing infrastructure with Kubernetes, designing microservices architectures & data engineering, and developing Python/Golang-based web servers. I am also deeply involved in exploring complex technologies such as Rust-based wasm programs, natural language processing, diffusion models, and have a interest in cryptography including zero knowledge proofs.
 
 In addition to the technical prowess, I enjoy writing educational materials and engaging in public speaking and technical writing to help fellow developers gain an understanding of software concepts.
 
