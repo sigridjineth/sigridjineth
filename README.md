@@ -10,26 +10,21 @@ In addition to the technical prowess, I enjoy writing educational materials and 
 
 ```golang
 type sigridjin_eth struct {
+	Role	      Role
 	GitHub        GitHub
 	Email         Email
 	Twitter       Twitter
-	LinkedIn      LinkedIn
 	TechStack     []Technology
-	Student       []School
 }
 
 func (s *sigridjin_eth) NewSigridJinEth() *sigridjin_eth {
 	return *sigridjin_eth{
+		Role:      Role.MACHINE_LEARNING_PRODUCT_AND_DEVREL_ENGINEER,
 		GitHub:    GitHub{"sigridjin_eth"},
 		Email: 	   Email{"sigrid.jinhyung@gmail.com"},
 		Twitter:   Twitter{"sigridjin_eth"},
 		TechStack: []Technology{
-      				"Go", "Rust", "Python", "Node.js", "Java", "Next.js"
-    		},
-		Student: []School{
-      				"Mathematics at Kyung Hee University",
-      				"CodeSquad Backend Alumni", "Harmony ZKU Alumni",
-      				"Chinese Major at Seoul Foreign Language High School Alumni",
+      				"Go", "Rust", "Python", "Node.js", "Java",
     		},
 	},
 }
