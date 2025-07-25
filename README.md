@@ -20,7 +20,11 @@ func (s *sigridjin_eth) NewSigridJinEth() *sigridjin_eth {
 			"Python", "Golang", "TypeScript", "Kotlin", "Rust",
     		},
 		Affiliation: []Affiliation{
-			"Sionic AI", "Instruct.KR", "PDAO", "University of British Columbia", "I love Sigrid"
+			"Sionic AI",
+			"Instruct.KR",
+			"PDAO",
+			"University of British Columbia, Okanagan Campus",
+			"I love Sigrid"
 		},
 	},
 }
