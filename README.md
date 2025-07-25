@@ -17,7 +17,7 @@ func (s *sigridjin_eth) NewSigridJinEth() *sigridjin_eth {
 		Email: 	   Email{"sigrid.jinhyung@gmail.com"},
 		Twitter:   Twitter{"sigridjin_eth"},
 		TechStack: []Technology{
-			"Python", "Golang", "TypeScript", "Java", "Rust(Novice)",
+			"Python", "Golang", "TypeScript", "Kotlin", "Rust",
     		},
 		Affiliation: []Affiliation{
 			"Sionic AI", "Instruct.KR", "PDAO", "University of British Columbia", "I love Sigrid"
