@@ -1,13 +1,5 @@
 ### Sigrid Jin (sigridjin.eth)
 
-👋 Hi! Welcome to my GitHub place for those who pass by as a stranger or my acquaintance.
-
-I am a former Ethereum enthusiast turned versatile Machine Learning Product Engineer with a background in web backend. I am currently broadening my academic horizon by studying for Computer Science degree in University of British Columbia, Okanagan Campus while graduating high schools in both Seoul, Korea and Ontario, Canada. (Yes, I am all-rounder!)
-
-My extensive skill set encompasses expertise in managing infrastructure with Kubernetes, designing microservices architectures & data engineering, and developing Python/Golang-based web servers. I am also deeply involved in working with LLM/AI based tools when putting my efforts to build something cool in software but not limited to the scope.
-
-In addition to the technical prowess, I enjoy writing educational materials and engaging in public speaking and technical writing to help fellow developers gain an understanding of software concepts.
-
 ```golang
 type sigridjin_eth struct {
 	Role	      Role
@@ -15,6 +7,7 @@ type sigridjin_eth struct {
 	Email         Email
 	Twitter       Twitter
 	TechStack     []Technology
+	Affiliation   []Affiliation
 }
 
 func (s *sigridjin_eth) NewSigridJinEth() *sigridjin_eth {
@@ -26,6 +19,9 @@ func (s *sigridjin_eth) NewSigridJinEth() *sigridjin_eth {
 		TechStack: []Technology{
 			"Python", "Golang", "TypeScript", "Java", "Rust(Novice)",
     		},
+		Affiliation: []Affiliation{
+			"Sionic AI", "Instruct.KR", "PDAO", "University of British Columbia", "I love Sigrid"
+		},
 	},
 }
 ```
